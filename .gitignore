@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.env
+venv/
+
+# Node / React
+node_modules/
+dist/
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
