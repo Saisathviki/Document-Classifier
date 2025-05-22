@@ -31,10 +31,6 @@ news-classifier/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 💻 How to Run Locally
